@@ -32,3 +32,8 @@ Thank you for considering contributing to UrlHum. You can send a pull request an
 
 # License
 UrlHum is open source and is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+
+# INSTALACION
+git clone https://github.com/urlhum/UrlHum.git .
+
+
